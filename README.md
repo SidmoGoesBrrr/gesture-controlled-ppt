@@ -12,3 +12,7 @@ Obviously training the model was a challenge as it requires a lot of time, effor
 Also neither of us actually ever used OpenCV before this, so learning to use it for the first time was a bit tricky.
 ## Accomplishments that we're proud of
 Learning how to use a new model, OpenCV, to use webcam video. We are also proud having having successful created another model as well as trained it to do something useful.
+
+
+##Using it
+```pip install mediapipe cvzone pyautogui```
