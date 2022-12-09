@@ -1,4 +1,4 @@
-# gesture-controlled-ppt
+# Gesture Controlled PPT
 
 ## Inspiration
 This project was inspired by a desire to make something simple, yet amazing. A laser-point finger not only looks really cool, but also saves the cost of an actual laser pen.
