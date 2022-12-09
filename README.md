@@ -1,7 +1,7 @@
 # Gesture Controlled PPT
 
 ## Inspiration
-This project was inspired by a desire to make something simple, yet amazing. Automating the process of switching slides was a good idea, in our opinion. We were also motivated by the fact that not only would we need to learn an entirely new module, which is good practice, but also that this project would need the help of Machine Learning models.![image](https://user-images.githubusercontent.com/60550481/206774550-86b15991-08e8-48c5-863b-1c5804b74428.png)
+This project was inspired by a desire to make something simple, yet amazing. Automating the process of switching slides was a good idea, in our opinion. We were also motivated by the fact that not only would we need to learn an entirely new module, which is good practice, but also that this project would need the help of Machine Learning models.
 
 ## What it does
 Using Python's OpenCV module, Google's MediaPipe and the power of ML models with numpy, we created a way for your computer to recognize the gestures you make with your fingers via a webcam, which is then interpreted as a command. For eg. pointing your finger to the right will go to the next slide, etc.
