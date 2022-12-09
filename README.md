@@ -16,4 +16,6 @@ Learning how to use a new model, OpenCV, to use webcam video. We are also proud 
 
 ## Using it
 ```pip install mediapipe cvzone pyautogui```
+
+
 Then run main.py
